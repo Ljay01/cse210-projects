@@ -1,0 +1,4 @@
+0
+Simple|Finish my assignment|I want to finish my CSE110 assignment|50|False
+Eternal|Read scriptures|Read one scripture per day|40
+Checklist|Travel checklist|The things I need to carry for my trip|60|0|3|100
